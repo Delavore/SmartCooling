@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "utilities.h": "c",
+        "init_periphery.h": "c",
+        "analog_reg.h": "c",
+        "mik32_hal_adc.h": "c",
+        "wakeup.h": "c",
+        "disp5110_wrapper.h": "c",
+        "disp5110_driver.h": "c",
+        "bitmap.h": "c"
+    }
+}
